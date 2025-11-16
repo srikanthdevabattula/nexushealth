@@ -52,7 +52,7 @@ export default function CopilotHome() {
           </div>
         ))}
       </div>
-<div className="w-[100%] flex justify-center items-center mt-6  fixed bottom-0 xl:h-[120px] lg:h-[100px] md:h-[80px] h-[60px] bg-white">
+<div className="w-[100%] flex justify-center items-center mt-6  sticky bottom-0 xl:h-[120px] lg:h-[100px] md:h-[80px] h-[60px] bg-white">
       <div className="lg:w-[78%] md:w-[70%] w-[95%]">
         <div className="border border-[#E2E8F0] xl:text-[14px] lg:text-[12px] md:text-[10px] text-[8px] rounded-[12px] w-[100%] flex flex-row items-center">
         <input

@@ -28,7 +28,7 @@ export default function Topbar({ onMenuClick,toggle,isOpen }) {
         </button>
 
         <button className="hidden md:flex p-2 border border-[#1DB7CC] rounded-lg">
-          <img src="/icons/Sidebar.png" className="w-[16px] h-[16px]"/>
+          <img src="/icons/sidebar.png" className="w-[16px] h-[16px]"/>
         </button>
       </div>
     </div>
